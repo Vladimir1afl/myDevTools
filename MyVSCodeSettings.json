@@ -1,0 +1,16 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "editor.tabSize": 4,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.detectIndentation": false,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.statusBar.visible": true,
+    "window.menuBarVisibility": "toggle",
+    "window.restoreWindows": "all",
+    "workbench.activityBar.visible": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.startupEditor": "none",
+}
