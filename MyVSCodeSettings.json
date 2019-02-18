@@ -13,4 +13,63 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "emmet.triggerExpansionOnTab": true,
     "workbench.startupEditor": "none",
+    "terminal.integrated.shell.windows": "D:\\Vladimir\\Git\\bin\\bash.exe",
+    "workbench.iconTheme": "vscode-icons",
+    "css.lint.emptyRules": "ignore",
+    "css.validate": false,
+    "editor.tokenColorCustomizations": {
+        "[Default Dark+]": {
+            "textMateRules": [
+                {
+                    "scope": "entity.other.attribute-name.html",
+                    "settings": {
+                        "foreground": "#d7ba7dff"
+                    }
+                },
+                {
+                    "scope": "string.quoted.single.html",
+                    "settings": {
+                        "foreground": "#9cdcfeff"
+                    }
+                },
+                {
+                    "scope": "string.quoted.double.html",
+                    "settings": {
+                        "foreground": "#9cdcfeff"
+                    }
+                },
+                {
+                    "scope": "punctuation.definition.entity.css",
+                    "settings": {
+                        "foreground": "#d7ba7dff"
+                    }
+                },
+                {
+                    "scope": "meta.property-name.css",
+                    "settings": {
+                        "foreground": "#d7ba7dff"
+                    }
+                },
+                {
+                    "scope": "meta.selector.css",
+                    "settings": {
+                        "foreground": "#d7ba7dff"
+                    }
+                },
+                {
+                    "scope": "entity.other.attribute-name.parent-selector-suffix.postcss",
+                    "settings": {
+                        "foreground": "#d7ba7dff"
+                    }
+                },
+                {
+                    "scope": "entity.name.tag.css",
+                    "settings": {
+                        "foreground": "#e06c75ff"
+                    }
+                },
+            ],
+        },
+    },
+    "terminal.integrated.rendererType": "dom",
 }
